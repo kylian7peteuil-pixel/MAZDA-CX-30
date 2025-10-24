@@ -91,7 +91,7 @@
 
     <div class="card">
       <h2>CX-30 Prime Line Boîte Manuelle 2.5L E-SKYACTIV G 140 CH 4X2</h2>
-      <a href="https://drive.google.com/file/d/1krQ4LugLZZ79XTh91oAZL-ycv6_e-N2G/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+      <a href="https://drive.google.com/file/d/11HGscxr4sJwb_X7kjp14jrY28upvz-RX/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
     </div>
 
     <div class="card">
