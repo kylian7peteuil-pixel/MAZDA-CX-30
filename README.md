@@ -91,48 +91,48 @@
 
     <div class="card">
       <h2>CX-30 Prime Line Boîte Manuelle 2.5L E-SKYACTIV G 140 CH 4X2</h2>
-      <a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/2.%20CX-30%20Prime%20Line%20Bo%C3%AEte%20Manuelle%202.5L%20E-SKYACTIV%20G%20140%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+      <a href="https://drive.google.com/file/d/1krQ4LugLZZ79XTh91oAZL-ycv6_e-N2G/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
     </div>
 
     <div class="card">
       <h2>CX-30 Centre-Line Boîte Automatique 2.5L E-SKYACTIV G 140 CH 4X2</h2>
-      <a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/3.%20CX-30%20Centre-Line%20Bo%C3%AEte%20Automatique%202.5L%20E-SKYACTIV%20G%20140%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+      <a href="https://drive.google.com/file/d/1ovtoxzmCB3TrJtJ12Ke6bhQsH6xCjsiR/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
     </div>
 
     <!-- Ajoute ici les 7 autres fiches -->
     <div class="card">
 	<h2>CX-30 Centre-Line Boîte Manuelle 2.5L E-SKYACTIV G 140 CH 4X2</h2>
-	<a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/4.%20CX-30%20Centre-Line%20Bo%C3%AEte%20Manuelle%202.5L%20E-SKYACTIV%20G%20140%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+	<a href="https://drive.google.com/file/d/1cRG-pTffEoVTBcMVA2js2pJolYpic1j2/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
 	</div>
 
     <div class="card">
 	<h2>CX-30 Centre-Line Boîte Manuelle 2.0L E-SKYACTIV X 186 CH 4X2</h2>
-	<a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/5.%20CX-30%20Centre-Line%20Bo%C3%AEte%20Manuelle%202.0L%20E-SKYACTIV%20X%20186%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+	<a href="https://drive.google.com/file/d/1EpP4lLWLn3IFgAx-75oOkvyZocAaphlI/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
 	</div>
 
     <div class="card">
 	<h2>CX-30 Centre-Line Boîte Automatique 2.0L E-SKYACTIV X 186 CH 4X2</h2>
-	<a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/6.%20CX-30%20Centre-Line%20Bo%C3%AEte%20Automatique%202.0L%20E-SKYACTIV%20X%20186%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+	<a href="https://drive.google.com/file/d/1Ia9whH-ULw34NAC9GThphrj6A74Tuig5/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
 	</div>
 
     <div class="card">
 	<h2>CX-30 Homura Boîte Automatique 2.5L E-SKYACTIV G 140 CH 4X2</h2>
-	<a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/7.%20CX-30%20Homura%20Bo%C3%AEte%20Automatique%202.5L%20E-SKYACTIV%20G%20140%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+	<a href="https://drive.google.com/file/d/12q7GAxNWEq0YF-nmKbL3j45HUrhqDzmv/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
 	</div>
 
     <div class="card">
 	<h2>CX-30 Homura Boîte Manuelle 2.5L E-SKYACTIV G 140 CH 4X2</h2>
-	<a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/8.%20CX-30%20Homura%20Bo%C3%AEte%20Manuelle%202.5L%20E-SKYACTIV%20G%20140%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+	<a href="https://drive.google.com/file/d/1dzTAZOQFPnWheTEygFeZ4m8gQuXIy1_E/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
 	</div>
 
     <div class="card">
 	<h2>CX-30 Homura Boîte Manuelle 2.0L E-SKYACTIV X 186 CH 4X2</h2>
-	<a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/9.%20CX-30%20Homura%20Bo%C3%AEte%20Manuelle%202.0L%20E-SKYACTIV%20X%20186%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+	<a href="https://drive.google.com/file/d/1KFUz1CGF2HjFRw4wD-usRm-npiV4MMOR/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
 	</div>
 
     <div class="card">
 	<h2>CX-30 Homura Boîte Automatique 2.0L E-SKYACTIV X 186 CH 4X2</h2>
-	<a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/10.%20CX-30%20Homura%20Bo%C3%AEte%20Automatique%202.0L%20E-SKYACTIV%20X%20186%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+	<a href="https://drive.google.com/file/d/1Xmc50cWySZphu9YFxIzCOfSdh4q_VaEf/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
 	</div>
 
   </section>
