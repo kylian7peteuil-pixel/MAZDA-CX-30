@@ -78,7 +78,7 @@
 <body>
 
   <header>
-    <img src="https://e7.pngegg.com/pngimages/309/569/png-clipart-mazda-logo-mazda-cars.png" alt="Logo Mazda">
+    <img src="https://macon.mazda.fr/img/bo/logo_mazda_bo.png" alt="Logo Mazda">
     <h1>Gamme Mazda CX-30 – Mazda Mâcon</h1>
     <p class="subtitle">Découvrez la gamme Mazda CX-30 disponible à Mazda Mâcon.</p>
   </header>
