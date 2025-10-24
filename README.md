@@ -86,7 +86,7 @@
   <section class="grid">
     <div class="card">
       <h2>CX-30 Prime Line Boîte Automatique 2.5L E-SKYACTIV G 140 CH 4X2</h2>
-      <a href="file:///C:/Users/kpete/Downloads/(Aucun%20objet)/1.%20CX-30%20Prime%20Line%20Bo%C3%AEte%20Automatique%202.5L%20E-SKYACTIV%20G%20140%20CH%204X2.pdf" class="btn">Télécharger la fiche PDF</a>
+      <a href="https://drive.google.com/file/d/11HGscxr4sJwb_X7kjp14jrY28upvz-RX/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
     </div>
 
     <div class="card">
