@@ -125,7 +125,54 @@
 	<h2>CX-30 Homura Boîte Automatique 2.0L E-SKYACTIV X 186 CH 4X2</h2>
 	<a href="https://drive.google.com/file/d/1Xmc50cWySZphu9YFxIzCOfSdh4q_VaEf/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
 	</div>
-	  
+	   <div class="card">
+      <h2>CX-30 Nagisa Boîte Manuelle 2.5L E-SKYACTIV G 140 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/14FDGchLMlzl01_CEC2TQekRcMBwB_jQu/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	   <div class="card">
+      <h2>CX-30 Nagisa Boîte Automatique 2.5L E-SKYACTIV G 140 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1q2_LthrEw3SdLOJ8KGZ9irY2ApR4yr33/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	   <div class="card">
+      <h2>CX-30 Nagisa Boîte Manuelle 2.0L E-SKYACTIV X 186 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1CM63TdX4mJ-Rz6ygh8F37NRe0l01JS_y/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	   <div class="card">
+      <h2>CX-30 Nagisa Boîte Automatique 2.0L E-SKYACTIV X 186 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1JVJ3ecv8iWaM0NVZ5A0lSAigp1eahBWD/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	   <div class="card">
+      <h2>CX-30 Exclusive-Line Boîte Manuelle 2.5L E-SKYACTIV G 140 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1B9ubUp6rePZqlqpQ4pt6mHIM3tFI68Jy/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	   <div class="card">
+      <h2>CX-30 Exclusive-Line Boîte Automatique 2.5L E-SKYACTIV G 140 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1I59WecPvjvDP-qzNgDO8F3sXq9ZVafl-/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	  <div class="card">
+      <h2>CX-30 Exclusive-Line Boîte Manuelle 2.0L E-SKYACTIV X 186 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1sIEnYnmyoMx8QbdD5J66asOF_xtGlRIp/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	  <div class="card">
+      <h2>CX-30 Exclusive-Line Boîte Automatique 2.0L E-SKYACTIV X 186 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1cogzZDjyzZUUiyu2OqprJnzThJISl3If/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	  <div class="card">
+      <h2>CX-30 Takumi Boîte Manuelle 2.5L E-SKYACTIV G 140 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1kdks_mGv4A7U99oBwXmOc9MZto_l4yjX/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	  <div class="card">
+      <h2>CX-30 Takumi Boîte Automatique 2.5L E-SKYACTIV G 140 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/17O9AXP0n40soZZAurqugJlTBdgiEG358/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	  <div class="card">
+      <h2>CX-30 Takumi Boîte Manuelle 2.0L E-SKYACTIV X 186 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1N78Hm95jv7DIp_J9GpPLiklF7W44gH60/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
+	  <div class="card">
+      <h2>CX-30 Takumi Boîte Automatique 2.0L E-SKYACTIV X 186 CH 4X2</h2>
+      <a href="https://drive.google.com/file/d/1ozOIP_dMxFYJGx5Kb0YIPUjox07e3x6U/view?usp=sharing" class="btn">Télécharger la fiche PDF</a>
+    </div>
   </section>
 
   <footer>© 2025 Mazda Mâcon – Tous droits réservés.</footer>
